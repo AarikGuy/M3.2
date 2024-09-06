@@ -2,7 +2,7 @@
 
 ## Overview
 
-TODO: Write a project description
+We had to replicate a letter completely in html only using the knowledge we already know.
 
 ## Sources and Credits
 
@@ -15,10 +15,5 @@ permission from your instructor.
 
 A simple bulleted list below is sufficient. For example:
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Links: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks
+- Formatting stuff: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting
